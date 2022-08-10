@@ -11,4 +11,4 @@ I used below `tech stack` to implement this project
 
 ![project-12](./image/project-12.png)
 
-live-link : [your business solution]()
+live-link : [your business solution](https://business-solution-project-12.netlify.app/)
